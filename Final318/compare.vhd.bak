@@ -1,0 +1,14 @@
+library IEEE;
+use  IEEE.STD_LOGIC_1164.all;
+use  IEEE.STD_LOGIC_ARITH.all;
+use  IEEE.STD_LOGIC_UNSIGNED.all;
+
+ENTITY compare IS
+	PORT
+		(keyboardData 	: IN	STD_LOGIC_VECTOR(5 DOWNTO 0);
+		Char_one, char_two, char_three, char_four, char_five, char_six, char_seven,char_eight, char_nine, char_ten: IN	STD_LOGIC_VECTOR(5 DOWNTO 0);
+		outputEnable: buffer std_logic; --prompts change of entire word
+		Colors: out std_logic_vector(2 downto 0);
+		matchLetter: out std_logic);
+		
+END compare;

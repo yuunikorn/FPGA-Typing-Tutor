@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="FinalProject">
+		<CBX_INST_ENTRY INSTANCE_NAME="|FinalProject|tutor2:inst1|lpm_counter10:inst10|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_rhk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|FinalProject|tutor2:inst1|lpm_counter7mod:inst12|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_ggk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|FinalProject|keycomp:inst4|lpm_rom0:inst11|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_2q61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|FinalProject|tutor2:inst1|lpm_counter10:inst11|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_rhk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|FinalProject|tutor2:inst1|lpm_counter7mod:inst19|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_ggk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|FinalProject|vgacomp:inst|StoredWordRom:inst4|LPM_ROM:char_gen_rom|altrom:srom|altsyncram:rom_block" CBX_FILE_NAME="altsyncram_6401.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
